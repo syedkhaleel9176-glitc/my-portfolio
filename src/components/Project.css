@@ -7,6 +7,24 @@
     justify-content: space-evenly;
     
 }
+.view .cal{
+    width: 300px;
+    height: 380px;
+}
+.view .cal img{
+    height: 180px;
+}
+.view .pot{
+    width:300px;
+    height:400px;
+}
+.view .pot img{
+    height: 200px;
+}
+.view .res{
+    width: 300px;
+    height: 450px;
+}
 .card:hover{
     box-shadow: 5px 5px 20px deeppink;
 }

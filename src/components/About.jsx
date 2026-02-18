@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import PCimg  from '../assets/image/PC.jpg'
+import compimg  from '../assets/image/comp.jpg'
 import atom from '../assets/logoimg/atom.png'
 import github from '../assets/logoimg/github.png'
 import html from '../assets/logoimg/html.png'
@@ -27,7 +27,7 @@ const About = () => {
           </ul>
           </div>
         <div className="img2">
-          <img src={PCimg} alt='developer'></img>
+          <img src={compimg} alt='pc'/>
           </div>
           </div>
         

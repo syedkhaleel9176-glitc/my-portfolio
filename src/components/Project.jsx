@@ -11,8 +11,9 @@ const Project = () => {
         <h6>Here are a few projects I've worked on recently.</h6>
       </div>
       <div className="view">
-
-        <div className="card" style={{"width":"250px", "height":"380px"}}>
+        
+        <div className="cal">
+        <div className="card">
            <img src={calsimg} className="card-img-top" alt="..."/>
           <div className="card-body">
           <h5 className="card-title">Calculator</h5>
@@ -21,8 +22,10 @@ const Project = () => {
           <a href="#" className="btn btn-primary">Git Hub</a>
           </div>
        </div>
+        </div>
 
-          <div className="card" style={{"width":"250px", "height":"400px"}}>
+        <div className="pot">
+          <div className="card">
           <img src={portimg} className="card-img-top" alt="..."/>
           <div className="card-body">
            <h5 className="card-title">Portfolio</h5>
@@ -31,10 +34,10 @@ const Project = () => {
              <a href="#" className="btn btn-primary">Git Hub</a>
            </div>
           </div>
-        
+        </div>
 
-      
-          <div className="card" style={{"width":"18rem"}}>
+        <div className="res">
+          <div className="card" >
           <img src="..." className="card-img-top" alt="..."/>
           <div className="card-body">
            <h5 className="card-title">Card title</h5>
@@ -42,7 +45,7 @@ const Project = () => {
             <a href="#" className="btn btn-primary">Git Hub</a>
           </div>
           </div>
-        
+        </div>
 
 
       </div>
