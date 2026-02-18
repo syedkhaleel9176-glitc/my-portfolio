@@ -1,0 +1,12 @@
+.proj{
+    color: white;
+    padding: 80px;
+}
+.view{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.card:hover{
+    box-shadow: 5px 5px 20px deeppink;
+}
