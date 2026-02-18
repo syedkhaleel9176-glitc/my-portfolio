@@ -19,7 +19,7 @@ const Project = () => {
           <h5 className="card-title">Calculator</h5>
            <p className="card-text">Created a functioal calculator using HTML, CSS, and JavaScript. 
             The calculator perform basic arithmatic operations and features a clean, user-friendly interface.</p>
-          <a href="#" className="btn btn-primary">Git Hub</a>
+          <a href="https://github.com/syedkhaleel9176-glitc/calculator" className="btn btn-primary">Git Hub</a>
           </div>
        </div>
         </div>
@@ -31,7 +31,7 @@ const Project = () => {
            <h5 className="card-title">Portfolio</h5>
            <p className="card-text">Build a personal portfolio using React.js. The portfolio includes sections for showcasing skills, project, 
             and contact details, implemented with reusable components and state management. </p>
-             <a href="#" className="btn btn-primary">Git Hub</a>
+             <a href="https://github.com/syedkhaleel9176-glitc/my-portfolio" className="btn btn-primary">Git Hub</a>
            </div>
           </div>
         </div>
