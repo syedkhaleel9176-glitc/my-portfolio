@@ -12,22 +12,22 @@ const App = () => {
     <div>
       <Router>
         
-  <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <nav className="navbar navbar-expand-lg  fixed-top">
   <div className="container-fluid" >
     
-    <Link className="navbar-brand" to="/">
+    <Link className="navbar-brand text-white custom-link" to="/">
       <i className="bi bi-house-fill"></i> <b>Home</b>
     </Link>
 
-    <Link className="nav-link text-white" to="/about">
+    <Link className="nav-link text-white custom-link" to="/about">
       <i className="bi bi-person"></i><b> About</b>
     </Link>
 
-    <Link className="nav-link text-white" to="/project">
+    <Link className="nav-link text-white custom-link" to="/project">
       <i className="bi bi-journal-bookmark-fill"></i><b> Project</b>
     </Link>
 
-    <Link className="nav-link text-white" to="/pdf">
+    <Link className="nav-link text-white custom-link" to="/pdf">
       <i className="bi bi-file-pdf"></i><b> Resume </b>
     </Link>
 
