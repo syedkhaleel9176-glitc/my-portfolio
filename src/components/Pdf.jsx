@@ -1,6 +1,6 @@
 import React from 'react'
 import './Resume.css'
-import resumefile from "../assets/resume/syedkhaleel.pdf"
+import resumefile from "../assets/resume/SYED-KHALEEL. S.pdf"
 
 const Pdf = () => {
   return (
